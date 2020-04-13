@@ -6,7 +6,7 @@
   "scripts": {
 	"bundle": "browserify src/casual.js -o dist/casual.js"
   },
-  "repository": "https://github.com/boo1ean/casual.git",
+  "repository": "https://github.com/arei/casual.git",
   "keywords": [
   ],
   "author": "Glen R. Goodwin <arei@usa.com>",
