@@ -71,7 +71,7 @@ var provider = {
 		'radical','really','record','regroup','rehydrate','request','responsible','review','rich','right','roll',
 		'room','running','savvy','scales','scaling','schedule','scope','sea','search','see','service','set','shall',
 		'shift','should','simple','single','skulls','sky','so','socialize','socks','solution','solutionize',
-		'soonest','speed','sprint','staircase','stakeholder','stakeholders','standup','status','stick','stop'
+		'soonest','speed','sprint','staircase','stakeholder','stakeholders','standup','status','stick','stop',
 		'strategic','strategy','success','sunset','synergize','synergy','talk','target','team','teams',
 		'technologically','terrorists','thanks','that','the','these','thinking','third','this','three-martini',
 		'throughput','time','to','today','too','touch','tribal','try','ultimate','understanding','up','usage','use',
