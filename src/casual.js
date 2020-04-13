@@ -99,4 +99,4 @@ var build = function() {
 // Default locale is en_US
 module.exports = build().en_US;
 
-if (typeof window!==undefined && !window.casual) window.casual = module.exports;
+window.casual = module.exports;
