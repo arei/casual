@@ -4918,6 +4918,8 @@ var build = function() {
 // Default locale is en_US
 module.exports = build().en_US;
 
+if (typeof window!==undefined && !window.casual) window.casual = module.exports;
+
 },{"./helpers":5,"./providers/address":6,"./providers/color":7,"./providers/date":8,"./providers/en_US/address.js":9,"./providers/internet":10,"./providers/misc":11,"./providers/number":12,"./providers/payment":13,"./providers/person":14,"./providers/text":15,"fs":1}],5:[function(require,module,exports){
 var number = require('./providers/number');
 
