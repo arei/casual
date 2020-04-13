@@ -2,7 +2,7 @@
   "name": "casual",
   "version": "1.6.2",
   "description": "Fake data generator, forked from https://github.com/boo1ean/casual.git by Egor Gumenyuk <boo1ean0807@gmail.com>, removing all the non-US locales, and browserifying the whole thing.",
-  "main": "src/casual.js",
+  "main": "dist/casual.js",
   "scripts": {
 	"bundle": "browserify src/casual.js -o dist/casual.js"
   },
